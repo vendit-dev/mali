@@ -1,6 +1,6 @@
 {
-  "name": "mali",
-  "version": "0.47.1",
+  "name": "@vendit-dev/mali",
+  "version": "0.47.2",
   "description": "Minimalistic gRPC microservice framework",
   "main": "lib/app.js",
   "scripts": {

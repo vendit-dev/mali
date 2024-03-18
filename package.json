@@ -14,13 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malijs/mali.git"
+    "url": "git+https://github.com/vendit-dev/mali"
   },
   "author": {
-    "name": "Bojan D.",
-    "email": "dbojan@gmail.com"
+    "name": "ScripterSugar",
+    "email": "scriptersugar@gmail.com"
   },
   "contributors": [
+    {
+      "name": "Bojan D.",
+      "email": "dbojan@gmail.com"
+    },
     {
       "name": "Yagiz Nizipli",
       "email": "yagiz@nizipli.com"
@@ -28,7 +32,7 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/malijs/mali/issues"
+    "url": "https://github.com/vendit-dev/mali/issues"
   },
   "homepage": "https://mali.js.org",
   "keywords": [
